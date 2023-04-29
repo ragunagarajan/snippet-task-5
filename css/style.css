@@ -36,12 +36,16 @@ body {
     /* border: 1px solid #00000047; */
     border-radius: 3px;
 }
-.box div{
+.box button{
 	margin:0 10px;
 	border-radius:5PX;
 	color:white;
 	font-size: 1em;
 }
-div a{
+button a{
 	padding-left:10px;
+}
+button{
+	border:none;
+	cursor:pointer;
 }
